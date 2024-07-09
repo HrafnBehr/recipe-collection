@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "react-router": "^6.24.1",
+    "react-router-dom": "^6.24.1",
+    "styled-components": "^6.1.11"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^10.3.1",
+    "@testing-library/react": "^16.0.0",
+    "@testing-library/user-event": "^14.5.2"
+  }
+}
